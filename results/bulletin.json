@@ -1,0 +1,60 @@
+{
+  "courses": [
+    {
+      "code": "COMP-3000",
+      "title": "Seminar: The Real World"
+    },
+    {
+      "code": "COMP-3009",
+      "title": "Essential Math for Data Science and AI"
+    },
+    {
+      "code": "COMP-3372",
+      "title": "Advanced Algorithms"
+    },
+    {
+      "code": "COMP-3455",
+      "title": "Shell Scripting and System Tools"
+    },
+    {
+      "code": "COMP-3495",
+      "title": "AI Design Project"
+    },
+    {
+      "code": "COMP-3525",
+      "title": "Human Centered AI - Mind Reading Machines"
+    },
+    {
+      "code": "COMP-3681",
+      "title": "Networking for Games"
+    },
+    {
+      "code": "COMP-3701",
+      "title": "Topics in Computer Graphics"
+    },
+    {
+      "code": "COMP-3702",
+      "title": "Topics in Database"
+    },
+    {
+      "code": "COMP-3703",
+      "title": "Topics-Artificial Intelligence"
+    },
+    {
+      "code": "COMP-3704",
+      "title": "Advanced Topics: Systems"
+    },
+    {
+      "code": "COMP-3705",
+      "title": "Topics in Computer Science"
+    },
+    {
+      "code": "COMP-3991",
+      "title": "Independent Study"
+    },
+    {
+      "code": "COMP-3995",
+      "title": "Independent Research"
+    }
+  ]
+}
